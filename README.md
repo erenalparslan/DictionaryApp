@@ -1,6 +1,10 @@
-# Sözlük Uygulaması
+# Dictionary App
 
 Bu proje, dil öğrenme sürecinde kullanıcıların kelime dağarcığını geliştirmelerine yardımcı olmak amacıyla geliştirilmiş bir sözlük uygulamasıdır.
+
+## API
+
+https://dictionaryapi.dev/
 
 ## Teknolojiler
 
